@@ -1,0 +1,133 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain(phabricator.wikimedia.org) {
+
+    body, .phui-timeline-title, .phui-timeline-extra, .phabricator-content-source-view {
+        background-color: #1B1B1B !important;
+        color: #CDCDCD !important;
+    }
+
+    .phabricator-main-menu-background {
+        background: black !important;
+    }
+
+    .phui-box-border, .phui-timeline-content .phui-timeline-core-content, .project-view-home {
+        background-color: #2F2F2F !important;
+    }
+
+    ui-feed-story-body {
+        color: #CDCDCD !important;
+    }
+
+    ui-header-header, .phui-header-subheader, .phui-icon-view.bluegrey {
+        color: #BFBFBF !important;
+    }
+
+    .phui-property-list-key, .phui-property-list-section-header, .aphront-form-label {
+        color: #D7D7D7 !important;
+    }
+
+    .phui-property-list-value {
+        color: #BABABA !important;
+    }
+
+    .phabricator-action-view, .phabricator-action-view-item {
+        color: #ADADAD !important;
+    }
+
+    .phui-crumbs-view, a.phui-crumb-view, .phui-crumbs-action {
+        color: #BABABA !important;;
+    }
+
+    a, .policy-link {
+        color: #347DC4 !important;
+    }
+
+    .phui-icon-view.white {
+        color: white !important;
+    }
+
+    .phui-timeline-icon-fill {
+        background-color: #505050 !important;
+    }
+
+    textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], div.jx-tokenizer-container, select, textarea, .remarkup-assist-bar {
+        background-color: #1B1B1B !important;
+        color: #CDCDCD !important;
+    }
+
+    .aphront-form-control-checkbox-layout th {
+        color: #C2C2C2;
+    }
+
+    .phui-tag-shade-blue .phui-tag-core, .phui-tag-color-person, .jx-tokenizer-token.blue {
+        background-color: #ABABAB !important;
+        border: 1px solid #2F2F2F !important;
+        color: #2F2F2F !important;
+    }
+
+    .phabricator-main-menu-search button {
+        color: #EBECEE !important;
+        background-color: #6B6B6B !important;
+    }
+
+    .phuix-dropdown-menu, .phabricator-main-menu-dropdown {
+        background-color: #2A2A2A !important;
+        color: #3E3E3E !important;
+    }
+
+    .phabricator-side-menu {
+        background-color: #303030 !important;
+        color: #D5D5D5 !important;
+    }
+
+    button, a.button, a.button:visited, input[type="submit"] {
+        background-color: #292929 !important;
+        border-color: #A5A5A5 !important;
+        color: #FFF !important;
+    }
+
+    .phui-box-grey {
+        background-color: #4B4B4B !important;
+    }
+
+    .phabricator-action-view-selected {
+        background: #6C6C6C !important;
+    }
+
+    .phabricator-action-view-selected {
+        background: #6C6C6C !important;
+    }
+
+    .phabricator-action-view-selected {
+        border-left: 3px solid #CED3D7 !important;
+    }
+
+    .phui-font-fa {
+        color: #C3C3C3 !important;
+    }
+
+    .aphront-form-control-checkbox-layout th {
+        color: #D5D5D5 !important;
+    }
+
+    .phui-object-box .phui-object-box .phui-header-shell {
+        background-color: #5D5D5D !important;
+    }
+
+    .phui-object-item-icon, .phui-object-item-bylines {
+        color: #424242 !important;
+    }
+
+    .phui-object-box-hidden-content {
+        background-color: #333 !important;
+    }
+
+    .device-desktop .phui-workboard-view-shadow {
+        background-color: #2F2C2C !important;
+    }
+
+    .project-panel-empty .phui-object-item-list-view {
+        background-color: #636363 !important;
+    }
+}
