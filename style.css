@@ -15,11 +15,11 @@
         background-color: #2F2F2F !important;
     }
 
-    ui-feed-story-body {
+    .phui-feed-story-body {
         color: #CDCDCD !important;
     }
 
-    ui-header-header, .phui-header-subheader, .phui-icon-view.bluegrey {
+    .phui-header-header, .phui-header-subheader, .phui-icon-view.bluegrey {
         color: #BFBFBF !important;
     }
 
@@ -36,7 +36,7 @@
     }
 
     .phui-crumbs-view, a.phui-crumb-view, .phui-crumbs-action {
-        color: #BABABA !important;;
+        color: #BABABA !important;
     }
 
     a, .policy-link {
@@ -60,11 +60,12 @@
         color: #C2C2C2;
     }
 
-    .phui-tag-shade-blue .phui-tag-core, .phui-tag-color-person, .jx-tokenizer-token.blue {
-        background-color: #ABABAB !important;
+    .phui-tag-shade-blue .phui-tag-core, .phui-tag-color-person, a.jx-tokenizer-token {
+        background-color: #DDD !important;
         border: 1px solid #2F2F2F !important;
         color: #2F2F2F !important;
     }
+
 
     .phabricator-main-menu-search button {
         color: #EBECEE !important;
@@ -80,7 +81,6 @@
         background-color: #303030 !important;
         color: #D5D5D5 !important;
     }
-
     button, a.button, a.button:visited, input[type="submit"] {
         background-color: #292929 !important;
         border-color: #A5A5A5 !important;
@@ -101,10 +101,6 @@
 
     .phabricator-action-view-selected {
         border-left: 3px solid #CED3D7 !important;
-    }
-
-    .phui-font-fa {
-        color: #C3C3C3 !important;
     }
 
     .aphront-form-control-checkbox-layout th {
@@ -129,5 +125,18 @@
 
     .project-panel-empty .phui-object-item-list-view {
         background-color: #636363 !important;
+    }
+
+    .phui-preview-header {
+        color: #F7F7F7 !important;
+        background-color: #151515 !important;
+    }
+
+    .phui-timeline-older-transactions-are-hidden, .phui-timeline-shell.anchor-target {
+        background-color: #EDEDED !important;
+    }
+
+    .phabricator-remarkup tt.remarkup-monospaced, .phabricator-remarkup .remarkup-code-block pre {
+        color: #EEE !important;
     }
 }
