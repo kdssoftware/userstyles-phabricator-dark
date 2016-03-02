@@ -143,4 +143,9 @@
     .phui-info-severity-notice, .phui-info-severity-notice a.button, .phui-big-info-view, .phui-document-content, .phui-document-container {
        background-color: #121E33 !important;
     }
+
+    .phabricator-remarkup blockquote {
+       color: #A8A8A8 !important;
+       background-color: #424242 !important;
+    }
 }
