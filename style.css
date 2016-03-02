@@ -139,4 +139,8 @@
     .phabricator-remarkup tt.remarkup-monospaced, .phabricator-remarkup .remarkup-code-block pre {
         color: #EEE !important;
     }
+
+    .phui-info-severity-notice, .phui-info-severity-notice a.button, .phui-big-info-view, .phui-document-content, .phui-document-container {
+       background-color: #121E33 !important;
+    }
 }
