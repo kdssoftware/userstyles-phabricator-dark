@@ -2,8 +2,8 @@
 
 @-moz-document domain(phabricator.wikimedia.org) {
 
-    body, .phui-timeline-title, .phui-timeline-extra, .phabricator-content-source-view {
-        background-color: #1B1B1B !important;
+    body, .phui-timeline-title, .phui-timeline-extra, .phabricator-content-source-view, .phui-two-column-view .phui-two-column-header {
+        background-color: #2B2B2B !important;
         color: #CDCDCD !important;
     }
 
@@ -107,8 +107,8 @@
         color: #D5D5D5 !important;
     }
 
-    .phui-object-box .phui-object-box .phui-header-shell {
-        background-color: #5D5D5D !important;
+    .phui-header-shell {
+        background-color: #3D3D3D !important;
     }
 
     .phui-object-item-icon, .phui-object-item-bylines {
