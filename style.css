@@ -1,229 +1,209 @@
-
-    body, .phui-timeline-title, .phui-timeline-extra, .phabricator-content-source-view, .phui-two-column-view .phui-two-column-header {
-        background-color: #2B2B2B !important;
-        color: #CDCDCD !important;
-    }
-
-    .phabricator-main-menu-background {
-        background: black !important;
-    }
-
-    .phui-box-border, .phui-timeline-content .phui-timeline-core-content, .project-view-home {
-        background-color: #2F2F2F !important;
-    }
-
-    .phui-feed-story-body {
-        color: #CDCDCD !important;
-    }
-
-    .phui-header-header, .phui-header-subheader, .phui-icon-view.bluegrey {
-        color: #BFBFBF !important;
-    }
-
-    .phui-property-list-key, .phui-property-list-section-header, .aphront-form-label {
-        color: #D7D7D7 !important;
-    }
-
-    .phui-property-list-value {
-        color: #BABABA !important;
-    }
-
-    .phabricator-action-view, .phabricator-action-view-item {
-        color: #ADADAD !important;
-    }
-
-    .phui-crumbs-view, a.phui-crumb-view, .phui-crumbs-action {
-        color: #BABABA !important;
-    }
-
-    a, .policy-link {
-        color: #347DC4 !important;
-    }
-
-    .phui-icon-view.white {
-        color: white !important;
-    }
-
-    .phui-timeline-icon-fill {
-        background-color: #505050 !important;
-    }
-
-    textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], div.jx-tokenizer-container, select, textarea, .remarkup-assist-bar {
-        background-color: #1B1B1B !important;
-        color: #CDCDCD !important;
-    }
-
-    .aphront-form-control-checkbox-layout th {
-        color: #C2C2C2;
-    }
-
-    .phui-tag-shade-blue .phui-tag-core, .phui-tag-color-person, a.jx-tokenizer-token {
-        background-color: #DDD !important;
-        border: 1px solid #2F2F2F !important;
-        color: #2F2F2F !important;
-    }
-
-
-    .phabricator-main-menu-search button {
-        color: #EBECEE !important;
-        background-color: #6B6B6B !important;
-    }
-
-    .phuix-dropdown-menu, .phabricator-main-menu-dropdown {
-        background-color: #2A2A2A !important;
-        color: #3E3E3E !important;
-    }
-
-    .phabricator-side-menu {
-        background-color: #303030 !important;
-        color: #D5D5D5 !important;
-    }
-    button, a.button, a.button:visited, input[type="submit"] {
-        background-color: #292929 !important;
-        border-color: #A5A5A5 !important;
-        color: #FFF !important;
-    }
-
-    .phui-box-grey {
-        background-color: #4B4B4B !important;
-    }
-
-    .phabricator-action-view-selected {
-        background: #6C6C6C !important;
-    }
-
-    .phabricator-action-view-selected {
-        background: #6C6C6C !important;
-    }
-
-    .phabricator-action-view-selected {
-        border-left: 3px solid #CED3D7 !important;
-    }
-
-    .aphront-form-control-checkbox-layout th {
-        color: #D5D5D5 !important;
-    }
-
-    .phui-header-shell {
-        background-color: #3D3D3D !important;
-    }
-
-    .phui-object-item-icon, .phui-object-item-bylines {
-        color: #424242 !important;
-    }
-
-    .phui-object-box-hidden-content {
-        background-color: #333 !important;
-    }
-
-    .device-desktop .phui-workboard-view-shadow {
-        background-color: #2F2C2C !important;
-    }
-
-    .project-panel-empty .phui-object-item-list-view {
-        background-color: #636363 !important;
-    }
-
-    .phui-preview-header {
-        color: #F7F7F7 !important;
-        background-color: #151515 !important;
-    }
-
-    .phui-timeline-older-transactions-are-hidden, .phui-timeline-shell.anchor-target {
-        background-color: #EDEDED !important;
-    }
-
-    .phabricator-remarkup tt.remarkup-monospaced, .phabricator-remarkup .remarkup-code-block pre {
-        color: #EEE !important;
-    }
-
-    .phui-info-severity-notice, .phui-info-severity-notice a.button, .phui-big-info-view, .phui-document-content, .phui-document-container {
-       background-color: #121E33 !important;
-    }
-
-    .phabricator-remarkup blockquote {
-       color: #A8A8A8 !important;
-       background-color: #424242 !important;
-    }
-
-.differential-diff,
-.phui-tag-grey,
-.differential-revision-size,
-.differential-revision-small{
-  background-color: #112a3b;
+body, .phui-timeline-title, .phui-timeline-extra, .phabricator-content-source-view, .phui-two-column-view .phui-two-column-header {
+	background-color: #2B2B2B !important;
+	color: #CDCDCD !important;
+}
+.phabricator-main-menu-background {
+	background: black !important;
+}
+.phui-box-border, .phui-timeline-content .phui-timeline-core-content, .project-view-home {
+	background-color: #2F2F2F !important;
+}
+.phui-feed-story-body {
+	color: #CDCDCD !important;
+}
+.phui-header-header, .phui-header-subheader, .phui-icon-view.bluegrey {
+	color: #BFBFBF !important;
+}
+.phui-property-list-key, .phui-property-list-section-header, .aphront-form-label {
+	color: #D7D7D7 !important;
+}
+.phui-property-list-value {
+	color: #BABABA !important;
+}
+.phabricator-action-view, .phabricator-action-view-item {
+	color: #ADADAD !important;
+}
+.phui-crumbs-view, a.phui-crumb-view, .phui-crumbs-action {
+	color: #BABABA !important;
+}
+.policy-link {
+	color: #d0d0d0;
+}
+.phui-icon-view.white {
+	color: white !important;
+}
+.phui-timeline-icon-fill {
+	background-color: #505050 !important;
+}
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], div.jx-tokenizer-container, select, textarea, .remarkup-assist-bar {
+	background-color: #1B1B1B !important;
+	color: #CDCDCD !important;
+}
+.aphront-form-control-checkbox-layout th {
+	color: #C2C2C2;
+}
+.phui-tag-shade-blue .phui-tag-core, .phui-tag-color-person, a.jx-tokenizer-token {
+	background-color: #DDD !important;
+	border: 1px solid #2F2F2F !important;
+	color: #2F2F2F !important;
+}
+.phabricator-main-menu-search button {
+	color: #EBECEE !important;
+	background-color: #6B6B6B !important;
+}
+.phuix-dropdown-menu, .phabricator-main-menu-dropdown {
+	background-color: #2A2A2A !important;
+	color: #3E3E3E !important;
+}
+.phabricator-side-menu {
+	background-color: #303030 !important;
+	color: #D5D5D5 !important;
+}
+button, a.button, a.button:visited, input[type="submit"] {
+	background-color: #292929 !important;
+	border-color: #A5A5A5 !important;
+	color: #FFF !important;
+}
+.phui-box-grey {
+	background-color: #4B4B4B !important;
+}
+.phabricator-action-view-selected {
+	background: #6C6C6C !important;
+}
+.phabricator-action-view-selected {
+	background: #6C6C6C !important;
+}
+.phabricator-action-view-selected {
+	border-left: 3px solid #CED3D7 !important;
+}
+.aphront-form-control-checkbox-layout th {
+	color: #D5D5D5 !important;
+}
+.phui-header-shell {
+	background-color: #3D3D3D !important;
+}
+.phui-object-item-icon, .phui-object-item-bylines {
+	color: #424242 !important;
+}
+.phui-object-box-hidden-content {
+	background-color: #333 !important;
+}
+.device-desktop .phui-workboard-view-shadow {
+	background-color: #2F2C2C !important;
+}
+.project-panel-empty .phui-object-item-list-view {
+	background-color: #636363 !important;
+}
+.phui-preview-header {
+	color: #F7F7F7 !important;
+	background-color: #151515 !important;
+}
+.phui-timeline-older-transactions-are-hidden, .phui-timeline-shell.anchor-target {
+	background-color: #EDEDED !important;
+}
+.phabricator-remarkup tt.remarkup-monospaced, .phabricator-remarkup .remarkup-code-block pre {
+	color: #EEE !important;
+}
+.phui-info-severity-notice, .phui-info-severity-notice a.button, .phui-big-info-view, .phui-document-content, .phui-document-container {
+	background-color: #121E33 !important;
+}
+.phabricator-remarkup blockquote {
+	color: #A8A8A8 !important;
+	background-color: #424242 !important;
+}
+.differential-diff,.phui-tag-grey,.differential-revision-size,.differential-revision-small{
+	background-color: #112a3b;
 }
 .phui-tag-core{
-  background-color: #112a3b;
-  border-color: #5969a8;
-  color:#f2f5fa;
+	background-color: #112a3b;
+	border-color: #5969a8;
+	color:#f2f5fa;
 }
-.phui-oi-link,a.phui-handle{
-  color:#9ecaff;
-  font-weight: 900;
+.phui-oi-link,a.phui-handle,.show-more a{
+	color: #efefef;
+	font-weight: 900;
 }
 .phui-oi-disabled.phui-workcard,.phui-oi.phui-oi-disabled{
-  background-color: #424141b3;
-  border-color: #424141b3;
+	background-color: #424141b3;
+	border-color: #424141b3;
 }
 .phabricator-action-view-selected{
-  background-color: #576a82;
-  color: #7a7d80;
+	background-color: #576a82;
+	color: #7a7d80;
 }
-.handle-status-closed,m{
-  color: #7a7d80;
+.diff-toc-path a{
+	color:#f2f2f2;
 }
-.n{
-  color: #a5a7aa;
-}
-.p,.mi,.mf{
-  color: #a3d3f3;
+.aphront-table-view tr.alt{
+	background-color: #35393e;
+	color:#f2f2f2;
 }
 .aphront-table-view{
-color:#87754844;
+	background-color: #242525;
+	color:#f2f2f2;
+}
+.phui-oi-list-header{
+	background-color: #1b1b1b;
+	border-color: #1b1b1b;
+}
+.phui-oi-frame,.phui-object-box .phui-box.phui-feed-story,.phui-box-border,.phui-object-box .phui-box.phui-feed-story,.phui-header-shell,.phui-property-list-section-header,.aphront-table-view,.aphront-table-view,.phui-list-view.phui-list-navbar-horizontal > li {
+	border-color: #1b1b1b;
+}
+.phui-oi,.phui-header-shell{
+	background-color: #2f2f2f;
+}
+.handle-status-closed,m{
+	color: #7a7d80;
+}
+.n{
+	color: #a5a7aa;
+}
+.p,.mi,.mf{
+	color: #a3d3f3;
+}
+.aphront-table-view{
+	color:#87754844;
 }
 .nx{
- color:#f2f5fa;
+	color:#f2f5fa;
 }
 .s,.s1,.s2{
-  color: #f39a70;
+	color: #f39a70;
 }
 .k,.o,.kr,.kt{
-  color: #ff1d1d
+	color: #ff1d1d
 }
 .kc,.kd{
-  color: #00fffb;
-}
-.show-more a{
-  color: #a3d3f3;
+	color: #00fffb;
 }
 .phui-status-list-view .phui-icon-view{
-  padding-right: 4px;
+	padding-right: 4px;
 }
 .phui-status-item-target{
-  background-color: #87754844;
-  border-radius: 10px;
-  margin-top: 5px;
+	background-color: #87754844;
+	border-radius: 10px;
+	margin-top: 5px;
 }
 .phui-status-list-view tbody *{
-  margin: 5px 0px;
-  display: inline;
+	margin: 5px 0px;
+	display: inline;
 }
 .old{
-  background-color: #ad151587;
+	background-color: #ad151587;
 }
 .new{
-  background-color: #13c51347;
+	background-color: #13c51347;
 }
 .bright{
-  background-color: #175538;
+	background-color: #175538;
 }
 .new-copy,.new-move{
-  background-color: #c35206;
+	background-color: #c35206;
 }
 .screen-only{
-  color:aliceblue
+	color:aliceblue
 }
 .differential-meta-notice{
-  background-color: #047942;
-  border-color: #042e1a;
+	background-color: #047942;
+	border-color: #042e1a;
 }
