@@ -161,6 +161,16 @@ button, a.button, a.button:visited, input[type="submit"] {
 .p,.mi,.mf{
 	color: #a3d3f3;
 }
+.phui-info-severity-notice,
+.phui-big-info-view{
+  background-color:#39606b;
+}
+.phui-info-view{
+  background-color:#39606b;
+}
+.phui-info-severity-notice{
+  border-color: #C2C2C2;
+}
 .aphront-table-view{
 	color:#87754844;
 }
